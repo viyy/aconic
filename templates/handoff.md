@@ -1,0 +1,12 @@
+# Phase handoff — FNN
+- Plan ID/version:
+- Status: READY_FOR_REVIEW | BLOCKED | FAILED
+- Git commit or diff reference:
+- Changed paths:
+- Delivered behavior and acceptance criteria:
+- Evidence/test commands + observed results:
+- Tests not run and why:
+- Downstream contract outputs (paths, versions):
+- Decisions made inside delegated scope:
+- Deviations / known risks / open blockers:
+- Suggested reviewer checks:
